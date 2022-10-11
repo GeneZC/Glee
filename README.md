@@ -59,7 +59,7 @@ For example, in `scripts/run_prompt_tuning_r52.sh`, we provide an example for Pr
 
 For results in the paper, we use Nvidia V100 GPUs with CUDA 11. Using different types of devices or different versions of CUDA/other softwares may lead to slightly different performance. The experimental logs can be found in `logs` for sanity checks.
 
-## Adapting to a New Task
+### Adapting to a New Task
 
 **Data**
 
