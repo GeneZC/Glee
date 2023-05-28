@@ -6,7 +6,7 @@ This repository contains code for EMNLP 2022 paper titled [Making Pretrained Lan
 
 <!-- Thanks for your interest in our repo! -->
 
-* 10/11/22: We released our paper, code, and data. Check it out!
+* 10/11/2022: We released our paper, code, and data. Check it out!
 
 ## Quick Links
 
